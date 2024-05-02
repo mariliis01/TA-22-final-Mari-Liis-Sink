@@ -1,7 +1,7 @@
 # TA-22-final-Mari-Liis-Sink
 Mari-Liis Sink lõputöö TA-22
 
-BabyCool OÜ uus koduleht ja e-pood. 
+BabyCool OÜ uus koduleht ja tulevikus e-pood. 
 
 https://github.com/mariliis01/Loputoo
 https://babycool.ta19rauniste.itmajakas.ee/
